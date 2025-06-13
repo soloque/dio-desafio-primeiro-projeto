@@ -1,0 +1,7 @@
+Aqui deixarei anotações de rápida consulta para o projeto
+Comandos principais
+gitstatus
+git add . (adiciona as alterações)
+git clone (link do projeto do github)
+git commit - m "Qualquer comentário aqui" (fz o commit)
+git push origin main (envia de fato ao repositório principal)
